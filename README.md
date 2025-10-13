@@ -192,7 +192,7 @@ game.start(); // Let the battle begin!
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0078B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0078B5)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF)](https://www.behance.net/YOUR_BEHANCE_URL)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF)](https://www.behance.net/mahiahkulsum/projects)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mahiyakulsum12@gmail.com)
 
 <br/>
