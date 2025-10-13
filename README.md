@@ -1,4 +1,4 @@
-# ✨ Hey there, I'm MAHIAH KULSUM 👋
+#  Hey there, I'm MAHIAH KULSUM 
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 My Journey
+## My Journey
 
 <div align="center">
 
@@ -27,25 +27,25 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="80"/>
-<br><b>🎓 Student</b>
+<br><b> Student</b>
 <br><sub>2023</sub>
 <br><sub>Started B.Sc in CSE</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/design.png" width="80"/>
-<br><b>💼 Design Intern</b>
+<br><b> Design Intern</b>
 <br><sub>2023-2024</sub>
 <br><sub>Black Origin CTG</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="80"/>
-<br><b>🏆 Hult Prize Winner</b>
+<br><b> Hult Prize Winner</b>
 <br><sub>2024</sub>
 <br><sub>3rd Place Achievement</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
-<br><b>🚀 Future AI Developer</b>
+<br><b> Future AI Developer</b>
 <br><sub>2025+</sub>
 <br><sub>Building Tomorrow</sub>
 </td>
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-### 🧠 About Me
+###  About Me
 
 </div>
 
@@ -66,10 +66,10 @@
 
 ```javascript
 const mahiyaKulsum = {
-    location: "📍 Chattogram, Bangladesh",
-    education: "🎓 B.Sc in Computer Science & Engineering",
-    experience: "💼 Former Design Intern at Black Origin CTG",
-    achievement: "🏆 3rd Place Winner - Hult Prize 2024",
+    location: " Chattogram, Bangladesh",
+    education: " B.Sc in Computer Science & Engineering",
+    experience: " Former Design Intern at Black Origin CTG",
+    achievement: " 3rd Place Winner - Hult Prize 2024",
     currentFocus: ["Interactive Systems", "Social Impact Tech"],
     philosophy: "Continuous learning & boundary pushing 💡"
 };
@@ -85,7 +85,7 @@ console.log("💻 Code gives it life");
 
 <div align="center">
 
-## 💼 My Project Universe
+##  My Project Universe
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -95,11 +95,11 @@ console.log("💻 Code gives it life");
 <tr>
 <td width="50%">
 
-### 🧮 Numerical Differentiation Calculator
+### Numerical Differentiation Calculator
 [![Calculator](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://numerical-differentiation-calc.streamlit.app)
 
 ```python
-# Making math interactive ✨
+# Making math interactive 
 def calculate_differentiation():
     return "Numerical magic happens here!"
 ```
@@ -109,7 +109,7 @@ def calculate_differentiation():
 </td>
 <td width="50%">
 
-### ♟️ Chess Game
+###  Chess Game
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahiyaK/Chess)
 
 ```javascript
@@ -125,11 +125,11 @@ game.start(); // Let the battle begin!
 <tr>
 <td width="50%" colspan="2">
 
-### 🌐 Portfolio Event Page Contribution
+###  Portfolio Event Page Contribution
 [![Portfolio](https://img.shields.io/badge/Contribution-7aa2f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rose-080/Portfolio-of-Professor-Dr.-Sharif-Uddin-Ahmed-Rana)
 
 ```html
-<!-- Collaborative creativity 🤝 -->
+<!-- Collaborative creativity  -->
 <div class="event-page">
   <h1>Building interactive experiences together</h1>
 </div>
@@ -145,7 +145,7 @@ game.start(); // Let the battle begin!
 
 <div align="center">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -185,7 +185,7 @@ game.start(); // Let the battle begin!
 
 <div align="center">
 
-## 🤝 Let's Connect & Create Together
+## Let's Connect & Create Together
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
@@ -197,7 +197,7 @@ game.start(); // Let the battle begin!
 
 <br/>
 
-### 📬 Send me a message and watch the plane fly! ✈️
+###  Send me a message and watch the plane fly! 
 
 </div>
 
@@ -209,7 +209,7 @@ game.start(); // Let the battle begin!
 
 <br/>
 
-### 💫 *"Design is intelligence made visible and code gives it life."*
+###  *"Design is intelligence made visible and code gives it life."*
 
 <br/>
 
