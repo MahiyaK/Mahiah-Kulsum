@@ -177,7 +177,7 @@ game.start(); // Let the battle begin!
 
 ### Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java,git,github,vscode,figma,ai,ps&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java,git,github,vscode,figma" />
 
 </div>
 
@@ -209,7 +209,7 @@ game.start(); // Let the battle begin!
 
 <br/>
 
-### 💫 *"Design is intelligence made visible — and code gives it life."*
+### 💫 *"Design is intelligence made visible and code gives it life."*
 
 <br/>
 
